@@ -5,6 +5,7 @@
 
 def odd_even(variable):
     if type(variable)
+    # test
     pass
 
 # Make a function that takes in a list of numbers and returns only the numbers that are even
